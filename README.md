@@ -9,7 +9,7 @@ More info about Puppeteer: https://pptr.dev/
 #Installation
 
 Dependencie:
-`npm i puppeteer --save`
+`npm i puppeteer`
 
 Package:
 `npm i easyscrapping --save`
